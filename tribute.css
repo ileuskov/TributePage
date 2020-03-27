@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+
+div{
+    margin: 0 auto;
+    text-align: center;
+}
+
+img{
+    max-width:100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.caption{
+    margin-top: 10px;
+    width: 733px;
+    max-width: 100%;
+    text-align: right;
+    font-size: 1.2rem;
+}
+
+#tribute-info{
+    max-width: 100%;
+    width: 760px;
+    text-align: center;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+}
+
+ul {
+    text-align: left;
+    list-style-position: inside;
+}
+
+
